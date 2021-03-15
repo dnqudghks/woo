@@ -1,0 +1,4 @@
+name=Hong Gil Dong
+age=16
+tel=010-7366-8819
+addr=인천시 부평구
